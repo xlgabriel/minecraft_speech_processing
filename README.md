@@ -35,6 +35,10 @@ The code integrates various components like speech recognition, real-time gamepl
 - **Ursina Game Setup**: Sets up the game environment using Ursina, including the player, blocks, and textures.
 - **Multithreading**: Uses threading to run the speech recognition in parallel with the game loop.
 
+### Gameplay Video
+
+**Gameplay Video**: Watch the gameplay video [here](https://www.youtube.com/watch?v=oTOu82YL1io).
+
 ## 📦 Installation
 
 ### Prerequisites
